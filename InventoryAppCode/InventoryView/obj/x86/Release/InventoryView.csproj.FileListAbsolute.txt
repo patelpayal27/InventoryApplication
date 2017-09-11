@@ -1,0 +1,73 @@
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\bin\Release\Inventory Application.exe.config
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\bin\Release\Inventory Application.exe
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\bin\Release\Inventory Application.pdb
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.csprojResolveAssemblyReference.cache
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmReport.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmValidity.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmDataFile.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmBrandAddMod.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmCategoryAddMod.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmDealerAddMod.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmImpExp.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmItemAddMod.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmItemSearch.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmLogin.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmMenu.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmListData.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmMdiMain.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmUserAddMod.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.Properties.Resources.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.csproj.GenerateResource.Cache
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\Inventory Application.exe
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryView\obj\x86\Release\Inventory Application.pdb
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\bin\Release\Inventory Application.exe
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\bin\Release\Inventory Application.pdb
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmReport.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmValidity.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmDataFile.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmBrandAddMod.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmCategoryAddMod.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmDealerAddMod.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmImpExp.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmItemAddMod.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmItemSearch.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmLogin.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmMenu.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmListData.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmMdiMain.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmUserAddMod.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\InventoryView.Properties.Resources.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\Inventory Application.exe
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\obj\x86\Release\Inventory Application.pdb
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\bin\Release\InventoryModel.dll
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryView\bin\Release\Inventory Application.exe.config
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\bin\Release\Inventory Application.exe.config
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\bin\Release\Inventory Application.exe
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\bin\Release\Inventory Application.pdb
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\bin\Release\InventoryModel.dll
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmGenBill.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmReport.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmValidity.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmDataFile.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmBrandAddMod.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmCategoryAddMod.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmDealerAddMod.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmImpExp.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmItemAddMod.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmItemSearch.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmLogin.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmMenu.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmListData.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmMdiMain.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.frmUserAddMod.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\InventoryView.Properties.Resources.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\RdlCompile.cache
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\RdlCompile.compiled
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\Inventory Application.exe
+D:\Payal\Windows Applications\InventoryApplication\InventoryView\obj\x86\Release\Inventory Application.pdb

@@ -1,0 +1,8 @@
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryActivationKey\bin\Release\InventoryActivationKey.exe
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryActivationKey\bin\Release\InventoryActivationKey.pdb
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryActivationKey\obj\x86\Release\InventoryActivationKey.csprojResolveAssemblyReference.cache
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryActivationKey\obj\x86\Release\InventoryActivationKey.frmMain.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryActivationKey\obj\x86\Release\InventoryActivationKey.Properties.Resources.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryActivationKey\obj\x86\Release\InventoryActivationKey.csproj.GenerateResource.Cache
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryActivationKey\obj\x86\Release\InventoryActivationKey.exe
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryActivationKey\obj\x86\Release\InventoryActivationKey.pdb

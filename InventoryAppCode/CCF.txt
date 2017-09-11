@@ -1,0 +1,56 @@
+CREATE TABLE "Brands" (
+	`BrandID`	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+	`BrandName`	TEXT NOT NULL,
+	`DelFlag`	TEXT
+)
+
+CREATE TABLE "CatBrandMapping" (
+	`CatID`	INTEGER NOT NULL,
+	`BrandID`	INTEGER NOT NULL,
+	FOREIGN KEY(`CatID`) REFERENCES `Categories`(`CatID`) ON Delete Cascade,
+	FOREIGN KEY(`BrandID`) REFERENCES `Brands`(`BrandID`) ON Delete Cascade
+)
+
+CREATE TABLE "Categories" (
+	`CatID`	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+	`CatDesc`	TEXT NOT NULL,
+	`DelFlag`	TEXT
+)
+
+CREATE TABLE "Dealers" (
+	`DealerID`	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+	`DealerName`	TEXT,
+	`DealerAddress`	TEXT,
+	`DealerPhoneNum`	NUMERIC,
+	`DelFlag`	TEXT
+)
+
+CREATE TABLE "ItemData" (
+	`ItemID`	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+	`ModelNumber`	TEXT,
+	`IMEI`	TEXT,
+	`CatID`	INTEGER NOT NULL,
+	`BrandID`	INTEGER NOT NULL,
+	`DealerID`	INTEGER NOT NULL,
+	`BuyDate`	TEXT NOT NULL,
+	`BuyPrice`	NUMERIC NOT NULL,
+	`CustomerName`	TEXT,
+	`CustAddress`	TEXT,
+	`CustPhoneNum`	NUMERIC,
+	`SellDate`	TEXT,
+	`SellPrice`	NUMERIC,
+	`DelFlag`	TEXT,
+	FOREIGN KEY(`CatID`) REFERENCES `Categories`(`CatID`),
+	FOREIGN KEY(`BrandID`) REFERENCES `Brands`(`BrandID`),
+	FOREIGN KEY(`DealerID`) REFERENCES `Dealers`(`DealerID`)
+)
+
+CREATE TABLE "UserData" (
+	`ID`	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+	`UserName`	TEXT NOT NULL UNIQUE,
+	`Password`	TEXT NOT NULL,
+	`UserType`	TEXT NOT NULL,
+	`DelFlag`	TEXT NOT NULL
+)
+
+insert into UserData (UserName, Password, UserType, DelFlag) values ('SYSADMIN','yn6Za4vsyHsAplCYb6xmsQ==','SYSADMIN','N') -- password is sysadmin

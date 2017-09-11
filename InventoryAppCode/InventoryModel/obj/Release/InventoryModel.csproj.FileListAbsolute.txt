@@ -1,0 +1,19 @@
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryModel\bin\Release\InventoryModel.dll.config
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryModel\bin\Release\InventoryModel.dll
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryModel\bin\Release\InventoryModel.pdb
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryModel\bin\Release\System.Data.SQLite.dll
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryModel\obj\Release\InventoryModel.dll
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryModel\obj\Release\InventoryModel.pdb
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryModel\bin\Release\InventoryModel.dll.config
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryModel\bin\Release\InventoryModel.dll
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryModel\bin\Release\InventoryModel.pdb
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryModel\obj\Release\ResolveAssemblyReference.cache
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryModel\obj\Release\InventoryModel.dll
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryModel\obj\Release\InventoryModel.pdb
+D:\Payal\Windows Applications\InventoryApplication\InventoryModel\bin\Release\InventoryModel.dll.config
+D:\Payal\Windows Applications\InventoryApplication\InventoryModel\bin\Release\InventoryModel.dll
+D:\Payal\Windows Applications\InventoryApplication\InventoryModel\bin\Release\InventoryModel.pdb
+D:\Payal\Windows Applications\InventoryApplication\InventoryModel\bin\Release\System.Data.SQLite.dll
+D:\Payal\Windows Applications\InventoryApplication\InventoryModel\obj\Release\ResolveAssemblyReference.cache
+D:\Payal\Windows Applications\InventoryApplication\InventoryModel\obj\Release\InventoryModel.dll
+D:\Payal\Windows Applications\InventoryApplication\InventoryModel\obj\Release\InventoryModel.pdb

@@ -1,0 +1,25 @@
+D:\Payal\Windows Applications\InventoryApplication\InventoryActivationKey\bin\Debug\InventoryActivationKey.exe
+D:\Payal\Windows Applications\InventoryApplication\InventoryActivationKey\bin\Debug\InventoryActivationKey.pdb
+D:\Payal\Windows Applications\InventoryApplication\InventoryActivationKey\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Payal\Windows Applications\InventoryApplication\InventoryActivationKey\obj\x86\Debug\InventoryActivationKey.frmMain.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryActivationKey\obj\x86\Debug\InventoryActivationKey.Properties.Resources.resources
+D:\Payal\Windows Applications\InventoryApplication\InventoryActivationKey\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Payal\Windows Applications\InventoryApplication\InventoryActivationKey\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Payal\Windows Applications\InventoryApplication\InventoryActivationKey\obj\x86\Debug\InventoryActivationKey.exe
+D:\Payal\Windows Applications\InventoryApplication\InventoryActivationKey\obj\x86\Debug\InventoryActivationKey.pdb
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryActivationKey\bin\Debug\InventoryActivationKey.exe
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryActivationKey\bin\Debug\InventoryActivationKey.pdb
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryActivationKey\obj\x86\Debug\InventoryActivationKey.frmMain.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryActivationKey\obj\x86\Debug\InventoryActivationKey.Properties.Resources.resources
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryActivationKey\obj\x86\Debug\InventoryActivationKey.csproj.GenerateResource.Cache
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryActivationKey\obj\x86\Debug\InventoryActivationKey.exe
+E:\My Work\Jatin - Inventory Application\InventoryApplication\InventoryActivationKey\obj\x86\Debug\InventoryActivationKey.pdb
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryActivationKey\bin\Debug\InventoryActivationKey.exe
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryActivationKey\bin\Debug\InventoryActivationKey.pdb
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryActivationKey\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryActivationKey\obj\x86\Debug\InventoryActivationKey.frmMain.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryActivationKey\obj\x86\Debug\InventoryActivationKey.Properties.Resources.resources
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryActivationKey\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryActivationKey\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryActivationKey\obj\x86\Debug\InventoryActivationKey.exe
+D:\Payal\Windows Applications\Copy of InventoryApplication\InventoryActivationKey\obj\x86\Debug\InventoryActivationKey.pdb
